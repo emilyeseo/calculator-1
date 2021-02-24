@@ -73,3 +73,5 @@ while True:
         result = "Please enter an operator followed by two integers."
 
     print(result)
+
+    #adding a comment so we can git commit- Emily & Jenny
